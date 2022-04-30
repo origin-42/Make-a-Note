@@ -41,8 +41,6 @@ npm i (install existing dependancies)
 
 [Origin 42](https://github.com/origin-42): Dave Plummer
 
-## Lisences
-
 ## Questions
 
 Direct any questions too;
