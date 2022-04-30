@@ -7,22 +7,13 @@
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/github/license/adonisjs/adonis-framework?style=for-the-badge)](https://opensource.org/licenses/MIT) [![pl](icon)](descr) 
+[![License: MIT](https://img.shields.io/github/license/adonisjs/adonis-framework?style=for-the-badge)](https://opensource.org/licenses/MIT) [![Node](https://badges.aleen42.com/src/node.svg)](https://nodejs.org/en/)
 
 </div>
 
 
-### Motivation
 
-I wanted somewhere online to make quick, organised notes to refer too later or when I needed too remember some info but didn't have time that I could access anywhere with an internet connection, that is customized and customzeable.
-
-### Problem
-
-This helps reduce time with all the varying sources of note taking that requires a phone, local machine, or paper! (what's that?).
-
-### Information
-
-To remove
+I wanted somewhere online to make quick, organised notes to refer too later or when I needed too remember some info but didn't have time that I could access anywhere with an internet connection, that is customized and customzeable. This helps reduce time with all the varying sources of note taking that requires a phone, local machine, or paper! (what's that?).
 
 ## Requirements
 
@@ -34,18 +25,7 @@ This application is run completely in the browser.
 
 - 1. Later I will be adding a calendar, which will provide standard business hours. This information will be saved and rendered when previous dates are selected
 
-- In addition, color coding, changing existing notes, mark as complete, base importance, and additional UI changes.
-
-### Further Changes
-
-- to delete
-
-## Table of Contents
-
-* [Installation](#installation)
-* [Credits](#credits)
-* [Questions](#questions)
-* [Extras](#extras)
+- 2. In addition, color coding, changing existing notes, mark as complete, base importance, and additional UI changes.
 
 ## Installation
 
@@ -72,7 +52,9 @@ Direct any questions too;
 
 ## Extras
 
-[Home Page](link)
+[Home Page](https://git.heroku.com/scribbles-the--note-taker.git)
 
-![snippet](link)
+![snippet](./images/home_screen.jpg)
+
+![snippet](./images/notes_page.jpg)
 
