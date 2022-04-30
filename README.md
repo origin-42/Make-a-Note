@@ -50,7 +50,7 @@ Direct any questions too;
 
 ## Extras
 
-[Home Page](https://git.heroku.com/scribbles-the--note-taker.git)
+[Home Page](https://git.heroku.com/scribbles-the--note-taker)
 
 ![snippet](./images/home_screen.jpg)
 
