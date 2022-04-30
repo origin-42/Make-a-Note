@@ -28,6 +28,11 @@ app.get('/notes', (req, res) =>
   res.sendFile(path.join(__dirname, '/public/notes.html'))
 );
 
+// Get route to watch all end points / return to main page
+app.get('*', (req, res) =>
+  res.sendFile(path.join(__dirname, '/public/index.html'))
+);
+
 app.listen(port, () => {
     console.log(`http://localhost:${port}`)
 })
