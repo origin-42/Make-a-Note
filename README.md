@@ -17,7 +17,7 @@ I wanted somewhere online to make quick, organised notes to refer too later or w
 
 ## Requirements
 
-This application is run completely in the browser.
+This application is run completely in the browser. you may visit [https://scribbles-the--note-taker.herokuapp.com/]. However, see below to load application on your local machine using node.
 
 ## Further Developments
 
@@ -29,12 +29,25 @@ This application is run completely in the browser.
 
 ## Installation
 
-```
 To run this app on the local terminal, run;
+```
 git clone {http}
-Open in preferred text editor
+```
+
+Open in preferred text editor and initialise node and add dependencies.
+```
 npm init -y
 npm i (install existing dependancies)
+```
+
+run application
+```
+npm start (nodemon app.js)
+```
+
+Load application on localhost, follow provided link from console on start
+```
+http://localhost:{Set port}
 ```
 
 ## Credits
