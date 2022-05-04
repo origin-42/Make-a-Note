@@ -23,7 +23,7 @@ This application is run completely in the browser. you may visit [https://scribb
 
 ### Changes
 
-This application has since been updated using mysql2 for the database, which can be found [here](https://github.com/origin-42/scribbles_mysql). 
+This application has since been updated using mysql2 for the database, which can be found [here](https://github.com/origin-42/scribbles_mysql). *Note, This updated version will not deploy live as it is using a local database. This will change soon when implementing an online database, likely with ClearDB MySQL extension through Heroku also.
 
 ### Additional Features
 
