@@ -21,6 +21,10 @@ This application is run completely in the browser. you may visit [https://scribb
 
 ## Further Developments
 
+### Changes
+
+This application has since been updated using mysql2 for the database, which can be found [here](https://github.com/origin-42/scribbles_mysql). 
+
 ### Additional Features
 
 - 1. Later I will be adding a calendar, which will provide standard business hours. This information will be saved and rendered when previous dates are selected
